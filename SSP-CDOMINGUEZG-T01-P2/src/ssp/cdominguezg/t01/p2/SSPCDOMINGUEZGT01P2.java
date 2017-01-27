@@ -15,6 +15,9 @@ public class SSPCDOMINGUEZGT01P2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+    //Catalina Guadalupe Domínguez Garza
+    //Matrícula: A01411583
+    //Carrera: IIS
     System.out.println("Calculadora de perímetro y superficie de un rectángulo");
     double sup, per, base, altu;
     Scanner teclado=new Scanner (System.in);
