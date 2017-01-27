@@ -15,6 +15,9 @@ public class SSPCDOMINGUEZGT01P1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+    //Catalina Guadalupe Domínguez Garza
+    //Matrícula: A01411583
+    //Carrera: IIS
     System.out.println("Calculadore de promedio");
         double cal1, cal2, cal3, cal4, cal5, pro;
         int mat;
