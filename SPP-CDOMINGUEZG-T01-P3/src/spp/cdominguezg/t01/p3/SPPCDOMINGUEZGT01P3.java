@@ -15,6 +15,9 @@ public class SPPCDOMINGUEZGT01P3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+    //Catalina Guadalupe Domínguez Garza
+    //Matrícula: A01411583
+    //Carrera: IIS
     System.out.println("Calculadora de distancia entre dos puntos");
     double x1, x2, y1, y2, dis;
     Scanner teclado=new Scanner (System.in);
