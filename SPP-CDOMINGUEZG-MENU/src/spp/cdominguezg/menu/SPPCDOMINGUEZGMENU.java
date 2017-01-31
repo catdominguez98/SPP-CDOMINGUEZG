@@ -23,7 +23,7 @@ public class SPPCDOMINGUEZGMENU {
     System.out.println("1. Calcular áreas");
     System.out.println("2. Calcular perímetros");
     System.out.println("3. Calcular volúmenes");
-    System.out.println("Salir");
+    System.out.println("4. Salir");
     opEntrada=kb.nextInt();
     switch(opEntrada){
         case 1:
